@@ -1,0 +1,11 @@
+{
+  "name": "mycv",
+  "version": "1.0.0",
+  "description": "tạo cv cá nhân",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nguyễn văn toàn",
+  "license": "ISC"
+}
