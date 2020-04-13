@@ -115,6 +115,7 @@ p{
 
 .box-img {
   position: relative;
+  overflow: hidden;
 }
 
 .box-img:hover {
@@ -168,6 +169,7 @@ p{
 }
 
 h2{
+    text-transform: uppercase;
     text-align: center;
     color:  #a8aab3;
     letter-spacing: 5px;
@@ -190,7 +192,7 @@ h2{
 {
     background: #fff;
     border-radius: 5px;
-    padding: 30px;
+    padding: 30px 20px;
     margin-bottom: 30px;
 }
 
@@ -254,6 +256,9 @@ h2{
     object-fit: cover;
 }
 
+ol {
+  list-style: none;
+}
 
 @keyframes slide{
     0%{
